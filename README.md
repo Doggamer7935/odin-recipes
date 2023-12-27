@@ -1,7 +1,7 @@
 This is the start of my recipes HTML project
 
 Skills demonstrated:
-ordered and unordered lists, h1 header tags, images, links
+ordered and unordered lists, h1 header tags, images, links 
 
 credit to allrecipes for the recipes: 
  https://www.allrecipes.com/recipe/16899/beef-wellington/
