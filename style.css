@@ -1,5 +1,6 @@
 .odin {
     font-size: 30px;
+    background-color: blanchedalmond;
 }
 
 .wellington {
@@ -42,4 +43,11 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     border: 10px solid darkred;
+    background-color: aquamarine;
+}
+
+.list {
+    font-size: 40px;
+    border: 10px solid brown;
+    background-color: burlywood;
 }
